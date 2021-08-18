@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"Controlador","l":"AplMain"},{"p":"ModeloPersistence","l":"Archivo"},{"p":"Controlador","l":"Controller"},{"p":"Modelo","l":"Estudiante"},{"p":"ModeloPersistence","l":"EstudianteDAO"},{"p":"Modelo","l":"EstudianteDTO"},{"p":"Vista","l":"VistaConsola"}];updateSearchResults();
